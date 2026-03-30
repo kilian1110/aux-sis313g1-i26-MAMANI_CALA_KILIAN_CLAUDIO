@@ -1,1 +1,3 @@
-# aux-sis313g1-i26-MAMANI_CALA_KILIAN_CLAUDIO
+Mamani Cala Kilian Claudio
+**diseño y programacion grafica**
+**SIS-313**
